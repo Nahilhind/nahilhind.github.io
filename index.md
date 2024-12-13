@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Mes projets
 
 [Project 1 ](/sample_page)
 <img src="images/projet1.png?raw=true"/>
@@ -21,7 +21,7 @@
 
 ---
 
-### Category Name 2
+### Les liens des projets
 
 - [Project 1 ](http://theislamabad.net/)
 - [Project 2 ](http://www.vegas.pk/)
